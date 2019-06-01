@@ -6,7 +6,7 @@ This app will compare strings and add to binary search tree.
 ## Getting Started
 These project help for you when you use with strings and binarysearchTrees. You can get binary search tree as alphabetical order with this app.
 
-### Installing
+### How to Use
 Create a new class **BinarySearchTree** and **TreeNode** *for* **BinarySearchTree** 
 
 Creating Node for BinarySearchTreeString
